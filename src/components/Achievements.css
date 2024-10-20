@@ -1,0 +1,62 @@
+#achievements {
+    padding: 6rem 10%;
+    background-color: #f9f9f9;
+}
+
+.achievements-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.achievements-container h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.achievements-list, .certifications-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.achievements-list li, .certifications-list li {
+    background-color: white;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid black;
+    font-weight: bold;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.achievements-list li:hover, .certifications-list li:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 20px rgba(37, 110, 156, 0.2);
+}
+
+.certifications-list li a {
+    display: inline-block;
+    margin-left: 1rem;
+    font-weight: 500;
+    color: rgb(0, 157, 255);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+.certifications-list li a:hover {
+    color: rgb(21, 68, 100);
+    border-bottom: 1px solid rgb(29, 72, 101);
+}
+
+@media (max-width: 768px) {
+    .achievements-container h1 {
+        font-size: 2rem;
+    }
+    
+    .achievements-list li, .certifications-list li {
+        padding: 1rem;
+    }
+}

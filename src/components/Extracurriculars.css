@@ -1,0 +1,59 @@
+#extracurriculars {
+    padding: 6rem 10% 4rem;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+#extracurriculars h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-align: center;
+    margin: 2rem 0;
+    color: #2c3e50;
+}
+
+.extracurriculars-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    list-style-type: none;
+    padding: 0;
+}
+
+.extracurriculars-list li {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 1.3rem;
+    font-weight: 600; 
+    color: #555;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+.extracurriculars-list li:hover {
+    background-color: #5bc0de;
+    color: #ffffff;
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.extracurriculars-list li p {
+    font-weight: normal; 
+    text-align: justify;
+}
+
+@media (max-width: 768px) {
+    #extracurriculars h1 {
+        font-size: 2rem;
+    }
+
+    .extracurriculars-list {
+        grid-template-columns: 1fr;
+    }
+
+    .extracurriculars-list li {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+}
