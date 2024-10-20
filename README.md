@@ -2,7 +2,7 @@
 
 I Created a **personalized responsive Portfolio** web application with **clean and user-friendly interface** which showcases my **Skills, Projects, Achievements and Extracurriculars** in a **professional** manner and **works well on both desktop and mobile devices.**
 
-## Live Demo
+## Live Demo 
 Check out the live version of my portfolio [here](https://aryanlunawat555.github.io/Personal-Portfolio/).
 
 OR 
@@ -11,7 +11,7 @@ Navigate to portfolio inside Personal Portfolio using Full Stack Web Development
 cd portfolio 
 Then run this command:
 npm start 
----
+
 
 ## Features
 
