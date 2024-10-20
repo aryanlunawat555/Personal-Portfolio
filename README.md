@@ -7,10 +7,10 @@ Check out the live version of my portfolio [here](https://aryanlunawat555.github
 
 OR 
 
-Navigate to portfolio inside Personal Portfolio using Full Stack Web Development by running code:
-cd portfolio 
-Then run this command:
-npm start 
+- Navigate to portfolio inside Personal Portfolio using Full Stack Web Development by running code:
+- cd portfolio 
+- Then run this command:
+- npm start 
 
 
 ## Features
