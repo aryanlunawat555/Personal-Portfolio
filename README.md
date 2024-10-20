@@ -1,9 +1,32 @@
-I developed a highly **personalized** and fully **responsive** portfolio web application, designed to offer a seamless and engaging experience for users across all devices. The platform features a **clean, modern, and user-friendly interface** that reflects my **professional style** while keeping navigation intuitive and simple.
+# Aryan Lunawat - Personal Portfolio
 
-This portfolio serves as a comprehensive showcase of my **skills, projects, achievements, and extracurricular activities**, all presented in a structured and organized way. Each section is carefully crafted to provide insight into my expertise, technical abilities, and the range of experiences I've gained throughout my career. The projects section includes detailed descriptions of my work, with links to the codebase where applicable, giving visitors a clear understanding of the practical applications of my skills.
+I Created a **personalized responsive Portfolio** web application with **clean and user-friendly interface** which showcases my **Skills, Projects, Achievements and Extracurriculars** in a **professional** manner and **works well on both desktop and mobile devices.**
 
-**The design prioritizes responsiveness, ensuring that whether accessed on a desktop, tablet, or mobile device, the user experience remains smooth, with no compromise on visual appeal or functionality**. Interactive elements, subtle animations, and aesthetically pleasing layouts enhance engagement while maintaining a professional tone.
+## Live Demo
+Check out the live version of my portfolio [here](https://aryanlunawat555.github.io/Personal-Portfolio/).
 
-In addition to showcasing my technical achievements, the portfolio highlights extracurricular activities that demonstrate my commitment to personal growth, leadership, and teamwork. Whether it’s coordinating in sports events, college fests, or engaging in community volunteering work, I provide a holistic view of my involvement outside of traditional academic and professional environments.
+---
 
-Furthermore, the platform integrates my contact details and social media links, allowing potential collaborators, employers, or clients to easily get in touch with me. Overall, the portfolio stands as a professional reflection of my journey, expertise, and readiness for future opportunities, optimized for a diverse audience of visitors.
+## Features
+
+- **About Me**: A brief introduction and background.
+- **Skills**: List of technical skills, including programming languages and tools.
+- **Projects**: Overview of personal and academic projects with links to GitHub repositories.
+- **Achievements**: Academic achievements and certifications.
+- **Extracurriculars**: Details of my participation in non-academic activities.
+- **Contact Form**: A fully functional contact form powered by **Formspree** to reach out to me.
+- **Responsive Design**: Mobile and desktop-friendly layout.
+
+---
+
+## Technologies Used
+
+- **React**: For building the interactive user interface.
+- **CSS**: Custom styling for a clean, modern design.
+- **Formspree**: For handling form submissions.
+- **Font Awesome**: For icons used throughout the website.
+- **HTML5 & JavaScript**: Core web technologies.
+- **GitHub Pages**: Hosting the live version of the website.
+
+---
+Thank you for visiting my portfolio! I appreciate your time and hope you enjoy exploring my work.
