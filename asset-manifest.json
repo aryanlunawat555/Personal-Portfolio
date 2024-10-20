@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.65de5983.css",
+    "main.js": "/Personal-Portfolio/static/js/main.5fd0878d.js",
+    "static/js/453.1407b060.chunk.js": "/Personal-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/AryanLunawat_CV.pdf": "/Personal-Portfolio/static/media/AryanLunawat_CV.9fd980e52289a83ab2f5.pdf",
+    "static/media/AryanLunawat.jpg": "/Personal-Portfolio/static/media/AryanLunawat.622572cb01c827dcb758.jpg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.65de5983.css.map": "/Personal-Portfolio/static/css/main.65de5983.css.map",
+    "main.5fd0878d.js.map": "/Personal-Portfolio/static/js/main.5fd0878d.js.map",
+    "453.1407b060.chunk.js.map": "/Personal-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65de5983.css",
+    "static/js/main.5fd0878d.js"
+  ]
+}
