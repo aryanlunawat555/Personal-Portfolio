@@ -21,7 +21,7 @@ const Projects = () => {
                     <h3>RESEARCH & DATA ANALYSIS ON SDG - RIGHT TO EDUCATION</h3>
                     <p>
                         Researched education trends in India, including COVID-19 impact. Analyzed resources, disability
-                        education, and teacher supply using stats, regression, correlation & hypothesis testing.
+                        education, and teacher supply using stats, regression, correlation and hypothesis testing.
                     </p>
                 </div>
 
