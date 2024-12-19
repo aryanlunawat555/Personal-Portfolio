@@ -31,6 +31,9 @@ const Projects = () => {
                         Developed a scalable IoT solution for campuses, integrating RFID, IR, PIR, flame, and soil moisture
                         sensors with Blynk for real-time monitoring and control, enabling smart access, parking, energy, safety alerts, and ML-driven analysis.
                     </p>
+                    <div className="btn-group">
+                        <a href="https://github.com/aryanlunawat555/Smart-University-Campus.git" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+                    </div>
                 </div>
             </div>
         </section>
